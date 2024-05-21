@@ -1,0 +1,6 @@
+[submodule "Logisim-CPU"]
+	path = Logisim-CPU
+	url = https://github.com/Mikeantabian/Logisim-CPU
+[submodule "Nand2Tetris"]
+	path = Nand2Tetris
+	url = https://github.com/Mikeantabian/Nand2Tetris
