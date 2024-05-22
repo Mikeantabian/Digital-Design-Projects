@@ -4,3 +4,6 @@
 [submodule "Nand2Tetris"]
 	path = Nand2Tetris
 	url = https://github.com/Mikeantabian/Nand2Tetris
+[submodule "Digital-Electronics-Circuits"]
+	path = Digital-Electronics-Circuits
+	url = https://github.com/Mikeantabian/Digital-Electronics-Circuits
